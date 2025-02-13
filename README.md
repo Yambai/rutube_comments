@@ -51,7 +51,7 @@ https://rutube.ru/video/3fffa1462cfc77af3ef8cafd420b96fc/ - Тестовое в�
 
 ## Установка
 
-1. Скачайте rutube_commentsX64.zip
+1. Скачайте **[rutube_commentsX64.zip](https://github.com/Yambai/rutube_comments/releases/download/v0.0.1/rutube_commentsX64.zip)**
 2. Распакуйте куда вам удобнее.
 3. Запустите RuComments.exe и введите ключ активации
 4. Скорее всего выйдет ошибка - запустите заново.
